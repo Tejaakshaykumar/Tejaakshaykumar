@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👨‍💻 **I am currently working on** Cryptographically Secure Digital Watermarking for Media Protection<br>🤝 **I'm looking to collaborate on** Web Development, Open Source Contributions, and Development projects focused solely on C/C++/Java<br>🚀 **I'm looking for** internships in Software Development, AI/ML, and Cybersecurity to gain hands-on experience and improve my skills.<br>📚 **I'm currently learning** Python, Artificial Intelligence (AI), Machine Learning (ML), and Cryptography to expand my expertise in emerging technologies.<br>💡 **Ask me about** DSA, Web Development, OOPS, DBMS, DWDM, Computer Networks (CN), and Design & Analysis of Algorithms (DAA).<br>🎉 **Fun fact:** I enjoy debugging so much that sometimes I find bugs in my sleep!😆🚀
+👨‍💻 **I am currently working on** Cryptographically Secure VPN for Real Time Communication<br>🤝 **I'm looking to collaborate on** Web Development, Open Source Contributions, and Development projects focused solely on C/C++/Java/Python<br>🚀 **I'm looking for** internships in Software Development, AI/ML, and Cybersecurity to gain hands-on experience and improve my skills.<br>📚 **I'm currently learning** Python, Artificial Intelligence (AI), Machine Learning (ML), and Cryptography to expand my expertise in emerging technologies.<br>💡 **Ask me about** DSA, Web Development, OOPS, DBMS, DWDM, Computer Networks (CN), and Design & Analysis of Algorithms (DAA).<br>🎉 **Fun fact:** I enjoy debugging so much that sometimes I find bugs in my sleep!😆🚀
 
 
 ### 🌐 Socials:
@@ -12,21 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Tejaakshaykumar&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tejaakshaykumar&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaakshaykumar&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
-<!--
-**Tejaakshaykumar/Tejaakshaykumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
